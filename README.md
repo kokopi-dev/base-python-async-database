@@ -1,5 +1,5 @@
-# Base Python Async Database
-Personal repo to spin up a Python project with scaffolding for utilizing an async database. Currently, it is using postgresql.
+# Python Async Database Template
+Personal repo to spin up a Python project with scaffolding/template for utilizing an async database. Currently, it is using postgresql.
 
 ---
 
